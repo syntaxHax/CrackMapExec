@@ -25,7 +25,7 @@ crackmapexec = 'cme.crackmapexec:main'
 cmedb = 'cme.cmedb:main'
 
 [tool.poetry.dependencies]
-python = "^3.7.0"
+python = "3.11.*"
 requests = ">=2.27.1"
 beautifulsoup4 = ">=4.11,<5"
 lsassy = ">=3.1.8"
